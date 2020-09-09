@@ -1,0 +1,11 @@
+{
+  "considerIp": "true",
+  "wifiAccessPoints": [
+    {
+        "macAddress": "ac:de:48:00:11:22"
+    },
+    {
+        "macAddress": "a6:83:e7:60:aa:0d"
+    }
+  ]
+}
